@@ -1,0 +1,24 @@
+.navbar {
+  background-color: #ffc107!important;
+}
+
+.crimson {
+  color: crimson!important;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.active {
+  font-weight: bold;
+}
+
+.badge {
+  /* position: absolute; */
+  font-size: 15px;
+  right: -10px;
+  margin-right: 15px;
+}
